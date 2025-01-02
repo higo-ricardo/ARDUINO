@@ -1,8 +1,5 @@
-# CHATBOT
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=PROJETO&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-Este trabalho para criar um modelo de chatbot em Python para lojas.
----
-## 
+# CHATBOT ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=PROJETO&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+#### Este trabalho para criar um modelo de chatbot em Python para lojas.
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higo-ricardo&theme=merko&show_icons=true)
 
 
