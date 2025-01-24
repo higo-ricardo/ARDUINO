@@ -3,6 +3,7 @@
 Fala aí, Dev? 
 Welcome to the ARDUINO repository! This repository contains various Arduino projects developed using language C/C++.
 
+[![Arduino](https://img.shields.io/badge/Arduino-Green?style=for-the-badge&logoWidth=30&link=https://docs.arduino.cc/)](https://docs.arduino.cc/)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -21,11 +22,11 @@ Welcome to the ARDUINO repository! This repository contains various Arduino proj
 ## Introduction
 This repository contains a collection of Arduino projects written in Python. Each project is designed to help you learn and experiment with Arduino and Python.
 
-## Projects
-Here are some of the projects included in this repository:
-1. **Project 1**: Description of Project 1.
-2. **Project 2**: Description of Project 2.
-3. **Project 3**: Description of Project 3.
+## PROJETOS
+
+### **Project 1**: *Hello World!*
+### **Project 2**: *Blink*
+### **Project 3**: *None*
 
 ---
 ## GitHub Stats
@@ -39,5 +40,7 @@ Here are some of the projects included in this repository:
  <div align="right">
   <a href="https://www.linkedin.com/in/higomelo/"> <img src="https://github.com/higo-ricardo/EMBARCATECH/blob/main/images/linkedin.png" width= "60" height= "60"> </a>
  </div> 
+ 
 --- 
+
 Thanks for visiting my profile, and happy coding!
