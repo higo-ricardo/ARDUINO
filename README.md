@@ -1,18 +1,21 @@
-# CHATBOT ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=PROJETO&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-#### Este trabalho para criar um modelo de chatbot em Python para lojas.
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higo-ricardo&theme=merko&show_icons=true)
+# ARDUINO Projects
 
+Welcome to the ARDUINO repository! This repository contains various Arduino projects developed using Python.
 
- ### SIGA-ME NAS REDES SOCIAIS
-       
- <div>
-  <a href="https://www.linkedin.com/in/higomelo/">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center" heigth="60" width="60"/>
-  </a>
+## Table of Contents
+- [Introduction](#introduction)
+- [Projects](#projects)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-  <a href="https://www.linkedin.com/in/higomelo/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" align="center" heigth="60" width="60" />/          
-  </a>
-</div>
+## Introduction
+This repository contains a collection of Arduino projects written in Python. Each project is designed to help you learn and experiment with Arduino and Python.
 
----
+## Projects
+Here are some of the projects included in this repository:
+1. **Project 1**: Description of Project 1.
+2. **Project 2**: Description of Project 2.
+3. **Project 3**: Description of Project 3.
